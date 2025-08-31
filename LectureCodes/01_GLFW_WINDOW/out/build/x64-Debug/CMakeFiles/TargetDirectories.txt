@@ -1,3 +1,0 @@
-E:/OpenGLLecture/LectureCodes/01_GLFW_WINDOW/out/build/x64-Debug/CMakeFiles/openglStudy.dir
-E:/OpenGLLecture/LectureCodes/01_GLFW_WINDOW/out/build/x64-Debug/CMakeFiles/edit_cache.dir
-E:/OpenGLLecture/LectureCodes/01_GLFW_WINDOW/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir

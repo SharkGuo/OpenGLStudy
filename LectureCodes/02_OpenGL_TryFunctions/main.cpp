@@ -1,4 +1,4 @@
-#include <iostream>
+ #include <iostream>
 #include <glad/glad.h>
 #include <GLFW/glfw3.h>
 
@@ -8,6 +8,7 @@
 //响应窗体大小变化函数
 void frameBufferSizeCallBack(GLFWwindow*, int width, int height) {
 	std::cout << "窗体新大小：" << width << ", " << height << std::endl;
+	glViewport(0, 0, width, height);
 }
 
 //键盘消息回调函数
@@ -40,11 +41,33 @@ int main() {
 
 
 
+	//使用glad加载所有当前版本opengl的函数
+	if (!gladLoadGLLoader((GLADloadproc)glfwGetProcAddress)) {
+		std::cout << "Failed to initialize GLAD" << std::endl;
+		return -1;
+	}
+
+
+
+	//设置opengl视口以及清理颜色
+	glViewport(0, 0, 800, 600);
+	glClearColor(0.2f, 0.3f, 0.3f, 1.0f);
+
+
+
 	//执行窗体循环
 	while (!glfwWindowShouldClose(window)) {
 		//接受并分发窗体消息
 		//检查消息队列是否又需要处理的消息，如果有则批量处理，清空队列
 		glfwPollEvents();
+
+		//执行opengl清理画布操作
+		glClear(GL_COLOR_BUFFER_BIT);
+
+		//渲染操作
+
+		//切换双缓存
+		glfwSwapBuffers(window);
 	}
 
 
