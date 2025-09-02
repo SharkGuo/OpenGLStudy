@@ -1,0 +1,17 @@
+# ninja log v5
+17	274	7784977619011596	CMakeFiles/openglStudy.dir/glad.c.obj	1b77948bad437484
+338	364	7784977619898626	wrapper/wrapper.lib	81bba1c1ae384344
+15	336	7784977619639496	CMakeFiles/openglStudy.dir/main.cpp.obj	21ebaee43a304b04
+365	477	7784977620656093	openglStudy.exe	ef8ba9b878d1311a
+20	338	7784977619649463	wrapper/CMakeFiles/wrapper.dir/checkError.cpp.obj	398c5633ff043fd7
+16	263	7784977769431233	CMakeFiles/openglStudy.dir/glad.c.obj	d77c32307dfb9eaf
+18	330	7784977770098995	wrapper/CMakeFiles/wrapper.dir/checkError.cpp.obj	d4559be14fd12da2
+13	335	7784977770098995	CMakeFiles/openglStudy.dir/main.cpp.obj	48f13cb64b139499
+330	356	7784977770358138	wrapper/wrapper.lib	81bba1c1ae384344
+356	470	7784977771115593	openglStudy.exe	ef8ba9b878d1311a
+1	294	7784979675445697	wrapper/CMakeFiles/wrapper.dir/checkError.cpp.obj	d4559be14fd12da2
+294	322	7784979675714801	wrapper/wrapper.lib	81bba1c1ae384344
+322	434	7784979676452336	openglStudy.exe	ef8ba9b878d1311a
+11	307	7784980688206116	wrapper/CMakeFiles/wrapper.dir/checkError.cpp.obj	d4559be14fd12da2
+307	337	7784980688505116	wrapper/wrapper.lib	81bba1c1ae384344
+337	447	7784980689242643	openglStudy.exe	ef8ba9b878d1311a
