@@ -1,0 +1,9 @@
+E:/OpenGLLecture/OpenGLStudy/LectureCodes/04_OpenGL_Application/out/build/x64-Debug/CMakeFiles/openglStudy.dir
+E:/OpenGLLecture/OpenGLStudy/LectureCodes/04_OpenGL_Application/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+E:/OpenGLLecture/OpenGLStudy/LectureCodes/04_OpenGL_Application/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+E:/OpenGLLecture/OpenGLStudy/LectureCodes/04_OpenGL_Application/out/build/x64-Debug/wrapper/CMakeFiles/wrapper.dir
+E:/OpenGLLecture/OpenGLStudy/LectureCodes/04_OpenGL_Application/out/build/x64-Debug/wrapper/CMakeFiles/edit_cache.dir
+E:/OpenGLLecture/OpenGLStudy/LectureCodes/04_OpenGL_Application/out/build/x64-Debug/wrapper/CMakeFiles/rebuild_cache.dir
+E:/OpenGLLecture/OpenGLStudy/LectureCodes/04_OpenGL_Application/out/build/x64-Debug/application/CMakeFiles/app.dir
+E:/OpenGLLecture/OpenGLStudy/LectureCodes/04_OpenGL_Application/out/build/x64-Debug/application/CMakeFiles/edit_cache.dir
+E:/OpenGLLecture/OpenGLStudy/LectureCodes/04_OpenGL_Application/out/build/x64-Debug/application/CMakeFiles/rebuild_cache.dir
